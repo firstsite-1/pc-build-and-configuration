@@ -53,7 +53,7 @@ This project documents the process of building and configuring my first custom d
 - Hardware and software troubleshooting
 
 ## Project Photo
-![Completed custom PC build](completed-pc-build.JPG)
+<img src="completed-pc-build.JPG" alt="Completed custom PC build" width="600">
 
   
 
