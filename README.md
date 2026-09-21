@@ -51,6 +51,10 @@ This project documents the process of building and configuring my first custom d
 - Device driver identification, installation, and troubleshooting
 - Ethernet and Wi-Fi network setup and connectivity testing
 - Hardware and software troubleshooting
+
+## Project Photo
+![Completed custom PC build](completed-pc-build.JPG)
+
   
 
    
